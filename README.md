@@ -1,10 +1,10 @@
 # Rainier Burgos
 
-rainier.burgos@gmail.com  
+[rainier.burgos@gmail.com](rainier.burgos@gmail.com)
 
-www.rainierburgos.com 
+[www.rainierburgos.com](www.rainierburgos.com)
 
-www.linkedin.com/in/rainierburgos
+[www.linkedin.com/in/rainierburgos](www.linkedin.com/in/rainierburgos)
 
 425-269-9122
 
