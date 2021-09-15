@@ -15,6 +15,8 @@ www.linkedin.com/in/rainierburgos
 
 A versatile Engineer that thrives on finding unique solutions to problems. With a background in Aerospace Engineering, I had the opportunity to be involved in a variety of roles and organizations in the creation of a product from inception to delivery. From my work experience and current training in digital product design, development, and data analytics, I am ready to support an organization in a dynamic tech- environment.
 
+&nbsp;
+
 # Tools/ Frameworks/ Skills
 
 Microsoft Office Products, Google Docs, Data visualization, HTML, CSS, Bootstrap, Javascript, Python, R, SQL, UX / UI, Sketch, Figma, Wireframing, Mockups, Prototyping, Information Architecture, User Interviews, Web and Mobile Design. 
@@ -63,6 +65,8 @@ Feb 2006 – Nov 2016.
 * Provided weekly reports to stakeholders to identify potential issues within delivery logistics, manufacturing, design, and schedule.
 * Coordinated across multiple organizations to ensure communication and visibility of risk items and mitigation plans.
 * Project Engineer – 777x flight controls flap skew system – responsible for all activities concerning sensor design, build, coordination and communication of project status to affected groups and commodities.
+
+&nbsp;
 
 # Education
 
