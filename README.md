@@ -13,7 +13,8 @@ www.linkedin.com/in/rainierburgos
 
 # About
 
-A versatile Engineer that thrives on finding unique solutions to problems. With a background in Aerospace Engineering, I had the opportunity to be involved in a variety of roles and organizations in the creation of a product from inception to delivery. From my work experience and current training in digital product design, development, and data analytics, I am ready to support an organization in a dynamic tech- environment.
+Thriving on finding unique solutions to problems, I am a software engineer with capabilities ranging from design, research, coding and data analytics.  Recently trained in multiple spaces of digital product design and web development, coupled with an extensive background in aerospace design engineering, I bring a unique lens to apply in a dynamic tech environment. 
+
 
 &nbsp;
 
